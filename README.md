@@ -4,7 +4,7 @@
 
 ## Установка
 
-Стандартные файлы: index.html и main.css
+Стандартные файлы: index.html и style.css
 
 ## Подробнее
 [demo](https://ilyasrv.github.io/cards/)
